@@ -1,2 +1,5 @@
 homepage: "https://www.stormdigital.nl/en"
 documentation: "https://github.com/Stormdigital/gtm-template-salesforce-audience-studio-event-pixel"
+versions:
+  - sha: 577a1d546070b5305b256cab0c0ccf193d72aa36
+    changeNotes: Add Salesforce Audience Studio Event Pixel template
