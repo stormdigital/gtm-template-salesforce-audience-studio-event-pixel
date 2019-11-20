@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="637e8cfb-6c20-4433-95fb-f32cb3da2691" name="Default Changelist" comment="">
+    <list default="true" id="e134d3d6-3d21-4e7c-baac-7233d9f316f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metadata.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/metadata.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,15 +19,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1TshHyK00h5xqAGcJpCpsY0GYAB" />
+  <component name="ProjectId" id="1Tsmg8fUSdfSMisfs1ahCkxk4Ao" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,12 +41,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="637e8cfb-6c20-4433-95fb-f32cb3da2691" name="Default Changelist" comment="" />
-      <created>1574254626312</created>
+      <changelist id="e134d3d6-3d21-4e7c-baac-7233d9f316f6" name="Default Changelist" comment="" />
+      <created>1574257285597</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574254626312</updated>
-      <workItem from="1574254627940" duration="619000" />
+      <updated>1574257285597</updated>
+      <workItem from="1574257286929" duration="13000" />
     </task>
     <servers />
   </component>
