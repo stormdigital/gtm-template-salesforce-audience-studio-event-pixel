@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="637e8cfb-6c20-4433-95fb-f32cb3da2691" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salesforce-audience-studio-event-pixel/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/salesforce-audience-studio-event-pixel/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/salesforce-audience-studio-event-pixel/.idea/salesforce-audience-studio-event-pixel.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/salesforce-audience-studio-event-pixel/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/salesforce-audience-studio-event-pixel/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/salesforce-audience-studio-event-pixel/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salesforce-audience-studio-event-pixel/metadata.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/metadata.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salesforce-audience-studio-event-pixel/template.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/template.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metadata.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/metadata.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574254626312</updated>
-      <workItem from="1574254627940" duration="58000" />
+      <workItem from="1574254627940" duration="242000" />
     </task>
     <servers />
   </component>
