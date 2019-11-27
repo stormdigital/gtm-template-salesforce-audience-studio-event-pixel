@@ -2,6 +2,8 @@
 homepage: "https://www.stormdigital.nl/en"
 documentation: "https://github.com/Stormdigital/gtm-template-salesforce-audience-studio-event-pixel"
 versions:
+  - sha: 638dce1976c831641d8a4470868dff80e3e3dadb
+    changeNotes: Add url encoding
   - sha: 35d0d4d15f9fffe7cd12f7e849aaedf9485767c4
     changeNotes: Add license file
   - sha: 45cf4c575d687ca2308d247534f2752607b8116f
