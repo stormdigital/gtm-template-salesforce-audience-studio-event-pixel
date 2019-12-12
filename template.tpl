@@ -154,8 +154,7 @@ if (eventID !== "") {
       
     var pixelString = 'https://beacon.krxd.net/event.gif?' + encodeUriComponent('event_id=' + eventID + '&event_type=' + eventType + optionsString);
   
-  	// sendPixel(pixelString, data.gtmOnSuccess, data.gtmOnFailure);
-  	log(pixelString);
+  	sendPixel(pixelString, data.gtmOnSuccess, data.gtmOnFailure);
 }
 
 
